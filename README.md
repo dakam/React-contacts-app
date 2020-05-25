@@ -1,18 +1,53 @@
-# Contacts Project
+# React Conatacts Web Application
 
-This repo is a code-along with the first project in the [React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019).
+ React Conatacts Web Application is a react web application that simplifies management of contacts in a single app
+## Features
 
-Most of the commits in this repository correspond to videos in the program.
+- Search for Contacts
+- Add new Contacts
+- Delete a Contact
 
-## Project Setup
+### Installing
 
-1. Clone the Project - `git clone https://github.com/udacity/reactnd-contacts-complete.git`
-2. Go into the directory where the project now lives - `cd reactnd-contacts-complete`
-3. Install the dependencies - `npm install`
-4. Start the app - `npm start`
+To have the development environment of Myreads Web Application up and running, follow the below steps
 
-## Contributing
+Clone or download the project
 
-Because this is a code-along project and the commits correspond to specific videos in the program, we will not be accepting pull requests.
+```
+git clone https://github.com/dakam/React-contacts-app.git
+```
 
-If you feel like there's a major problem, please open an issue to discuss the problem and potential resolution.
+change current directory to MyReadsApp
+
+```
+cd React-contacts-app
+```
+
+Install all the required dependencies
+
+```
+npm install
+```
+
+Start the application
+
+```
+npm start
+```
+
+## Built With
+
+- [React](http://https://reactjs.org/) - A javascript Library for User Interfaces
+- [npm](https://www.npmjs.com//) - Package Manage
+- [React Router](https://rometools.github.io/rome/) - Routing library for React Application
+- [creat-react-app](https://create-react-app.dev/) - A start app for React Projects
+
+## Authors
+
+- **Damian Kato** - _Developer_ - [dakam](https://github.com/dakam)
+
+## Acknowledgments
+
+- Udacity 
+- Inspired by facebook use of React
+- Sponsored by ALaunchPad
